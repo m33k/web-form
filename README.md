@@ -6,6 +6,11 @@
 ## MVP
 - Load web page and using the web form, add data and see if it ends up in the database. We'll worry about showing the data afterwords.
 
+## Stack
+- Apache 2.4.x
+- Python 3.6+
+- MySQL 8.x
+
 ## Pseudo code / Outline
 
 ### HTML
