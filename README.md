@@ -17,8 +17,8 @@
 - form with following fields: fname, lname, email, and password.
 - submit button
 
-## Python
+### Python
 - On form submit, take data and input it into a relational database 
 
-## Javascript
+### Javascript
 - If form submit successful, return success else return error
